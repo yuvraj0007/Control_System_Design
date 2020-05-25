@@ -1,0 +1,7 @@
+step 1: Run the .m file in matlab or octave
+step 2: Enter the numerator in row matrix form of the OLTF or the plant function
+step 3: Enter the denominator in row matrix form of the OLTF or the plant function
+step 4: Read the appropiate choice and give the input accordingly to see the output
+step 5: Read the document file for getting idea of your plant stability according to your output
+step 6: Redesign the system by changing the feedback of it
+step 7: Repeat all the above steps
